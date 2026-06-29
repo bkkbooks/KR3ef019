@@ -1,0 +1,1088 @@
+canonical_identifier: bkk:krp/KR3ef019/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef019/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒貫珠集
+  identifiers:
+    krp: KR3ef019
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef019.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef019_001-jc.yaml, hash: 'sha256:e5ff7420145600ff91e8d63cad1cf5f5fc89ab8e333ff6c389eb347bd809e8a4'}
+  - {seq: 2, filename: KR3ef019_002-jc.yaml, hash: 'sha256:86c7415775f41a9b3131bbf9f5e90b2d7fdc93835ceedd1c4ac82f5fee0619f4'}
+  - {seq: 3, filename: KR3ef019_003-jc.yaml, hash: 'sha256:db664b34fea18dc173abf165faaa85cf22e934dca597b3782a05f944f47cd794'}
+  - {seq: 4, filename: KR3ef019_004-jc.yaml, hash: 'sha256:cb00af9b53d0837d8c7602cb9411a2610d60c143ac413956000975a4eb5cdddd'}
+  - {seq: 5, filename: KR3ef019_005-jc.yaml, hash: 'sha256:3d492eb90901306a9ff67f2959f140476c3668a334e9350445eb7f4515b7034f'}
+  - {seq: 6, filename: KR3ef019_006-jc.yaml, hash: 'sha256:534bc47f0f9796c68e9f14d509233f6c38415d7c536db99ab50372af427976c2'}
+  - {seq: 7, filename: KR3ef019_007-jc.yaml, hash: 'sha256:2f0089f3cec46354d07a4f0a6ab6422f382c2f7589192cbdf6b8c0d8b43144a5'}
+  - {seq: 8, filename: KR3ef019_008-jc.yaml, hash: 'sha256:87be2e48b703c456c4cd906347ff70a7a12c4fbd0c26138000f9567b3047ec18'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef019_001-jc.markers.yaml, hash: 'sha256:53db2caa05a3020072969f9c8666bd82957fede55a9607a1b0286ebe13140a76'}
+  - {seq: 2, role: markers, filename: assets/KR3ef019_002-jc.markers.yaml, hash: 'sha256:173db550af5adf68f63f2d2420f6668232af096a27434b52ce6e1bf714f96178'}
+  - {seq: 3, role: markers, filename: assets/KR3ef019_003-jc.markers.yaml, hash: 'sha256:176c08399362be6d2a7d47e0c7939adcf83c3fecff0f08dce7bca3d47b1f010d'}
+  - {seq: 4, role: markers, filename: assets/KR3ef019_004-jc.markers.yaml, hash: 'sha256:d1ac6d2d9e2e8bea92c09c61aa1bafa759d76b890bc78080490f8ca92602ef5f'}
+  - {seq: 5, role: markers, filename: assets/KR3ef019_005-jc.markers.yaml, hash: 'sha256:453086edd241abfbc168b7f17af2067aeaed69227f30f7edb162957b6a34d17b'}
+  - {seq: 6, role: markers, filename: assets/KR3ef019_006-jc.markers.yaml, hash: 'sha256:fd2fbe4ebf4705c5e530aa202ff3b385bd1782b4aea27c3e8249d8cd26b7c649'}
+  - {seq: 7, role: markers, filename: assets/KR3ef019_007-jc.markers.yaml, hash: 'sha256:229cd1c8362fbfd66d73a21299397a683dfe69526f691b221a6a5f5e6952d729'}
+  - {seq: 8, role: markers, filename: assets/KR3ef019_008-jc.markers.yaml, hash: 'sha256:6b0752b44b45d9e1c85136bc61d0d4fad3dff167240c613a99533048cf5c53d7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 18129
+  label: 卷一太陽篇上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2d2
+    span:
+    - body
+    - 6
+    - 631
+  label: 辨列太陽條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2d3
+    span:
+    - body
+    - 631
+    - 6622
+  label: 太陽正治法第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d2
+    span:
+    - body
+    - 638
+    - 1451
+  label: 太陽病脈證三條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d3
+    span:
+    - body
+    - 1451
+    - 3123
+  label: 桂枝湯脈證七條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d4
+    span:
+    - body
+    - 3123
+    - 3486
+  label: 桂枝湯禁三條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d5
+    span:
+    - body
+    - 3486
+    - 4524
+  label: 麻黃湯脈證七條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d6
+    span:
+    - body
+    - 4524
+    - 5584
+  label: 合病證治六條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d7
+    span:
+    - body
+    - 5584
+    - 5783
+  label: 辨傷寒受病陰陽不同一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d3d8
+    span:
+    - body
+    - 5783
+    - 6622
+  label: 太陽病愈時日及欲解之候與傳經之證六條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2d4
+    span:
+    - body
+    - 6622
+    - 11973
+  label: 太陽權變法第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d2
+    span:
+    - body
+    - 6629
+    - 7637
+  label: 不可發汗例十條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d3
+    span:
+    - body
+    - 7637
+    - 7888
+  label: 桂枝二越婢一湯脈證一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d4
+    span:
+    - body
+    - 7888
+    - 8655
+  label: 桂枝麻黃各半湯脈證一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d5
+    span:
+    - body
+    - 8655
+    - 9470
+  label: 大青龍湯脈證二條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d6
+    span:
+    - body
+    - 9470
+    - 10256
+  label: 小青龍湯脈證二條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d7
+    span:
+    - body
+    - 10256
+    - 10595
+  label: 十棗湯證治一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d8
+    span:
+    - body
+    - 10595
+    - 10764
+  label: 五苓散證治一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d9
+    span:
+    - body
+    - 10764
+    - 10919
+  label: 表實裡虛四逆湯先救里一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d10
+    span:
+    - body
+    - 10919
+    - 11257
+  label: 陽微先汗陰微先下隨脈施治一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d11
+    span:
+    - body
+    - 11257
+    - 11652
+  label: 傷寒裡虛法先補里二條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d4d12
+    span:
+    - body
+    - 11652
+    - 11973
+  label: 結陰代陰脈法一條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2d5
+    span:
+    - body
+    - 11973
+    - 18129
+  label: 太陽斡旋法第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d5d2
+    span:
+    - body
+    - 11980
+    - 13463
+  label: 服桂枝湯後證治六條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d5d3
+    span:
+    - body
+    - 13463
+    - 15979
+  label: 發汗後脈證治法十五條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d5d4
+    span:
+    - body
+    - 15979
+    - 16446
+  label: 發汗吐下解後病脈證治三條
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef019_jc_001-d2.d5d5
+    span:
+    - body
+    - 16446
+    - 18129
+  label: 太陽傳本證治七條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 18500
+  label: 卷二太陽篇下
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3d2
+    span:
+    - body
+    - 6
+    - 12615
+  label: 太陽救逆法第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d2
+    span:
+    - body
+    - 13
+    - 469
+  label: 論結胸臟結之異三條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d3
+    span:
+    - body
+    - 469
+    - 686
+  label: 論結胸及痞之源一條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d4
+    span:
+    - body
+    - 686
+    - 3177
+  label: 論結胸證治十條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d5
+    span:
+    - body
+    - 3177
+    - 4968
+  label: 痞證七條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d6
+    span:
+    - body
+    - 4968
+    - 5836
+  label: 懊憹煩滿證治六條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d7
+    span:
+    - body
+    - 5836
+    - 7005
+  label: 下利脈證五條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d8
+    span:
+    - body
+    - 7005
+    - 8688
+  label: 下後諸變證治八條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d9
+    span:
+    - body
+    - 8688
+    - 11121
+  label: 誤汗下及吐後諸變脈證十三條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d2d10
+    span:
+    - body
+    - 11121
+    - 12615
+  label: 火逆十條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3d3
+    span:
+    - body
+    - 12615
+    - 18500
+  label: 太陽類病法第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d2
+    span:
+    - body
+    - 12622
+    - 12757
+  label: 溫病一條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d3
+    span:
+    - body
+    - 12757
+    - 13548
+  label: 風溫一條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d4
+    span:
+    - body
+    - 13548
+    - 14394
+  label: 痙病七條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d5
+    span:
+    - body
+    - 14394
+    - 15155
+  label: 濕病五條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d6
+    span:
+    - body
+    - 15155
+    - 15991
+  label: 風濕四條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d7
+    span:
+    - body
+    - 15991
+    - 16468
+  label: 暍病三條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d8
+    span:
+    - body
+    - 16468
+    - 18235
+  label: 霍亂十一條
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef019_jc_002-d3.d3d9
+    span:
+    - body
+    - 18235
+    - 18500
+  label: 飲證一條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7561
+  label: 卷三陽明篇上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4d2
+    span:
+    - body
+    - 6
+    - 269
+  label: 辨列陽明條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4d3
+    span:
+    - body
+    - 269
+    - 7561
+  label: 陽明正治法第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d2
+    span:
+    - body
+    - 276
+    - 1577
+  label: 陽明腑病證十二條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d3
+    span:
+    - body
+    - 1577
+    - 2179
+  label: 調胃承氣湯證四條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d4
+    span:
+    - body
+    - 2179
+    - 2498
+  label: 小承氣湯證二條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d5
+    span:
+    - body
+    - 2498
+    - 4211
+  label: 大承氣湯證九條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d6
+    span:
+    - body
+    - 4211
+    - 4721
+  label: 白虎加人參湯證三條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d7
+    span:
+    - body
+    - 4721
+    - 6186
+  label: 陽明經病脈因證治十一條
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef019_jc_003-d4.d3d8
+    span:
+    - body
+    - 6186
+    - 7561
+  label: 陽明病風寒不同證治八條
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5569
+  label: 卷四陽明篇下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5d2
+    span:
+    - body
+    - 6
+    - 4244
+  label: 陽明明辨法第二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5.d2d2
+    span:
+    - body
+    - 13
+    - 1285
+  label: 表裡虛實生死之辨九條
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5.d2d3
+    span:
+    - body
+    - 1285
+    - 4244
+  label: 陽明可下不可下之辨十五條
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5d3
+    span:
+    - body
+    - 4244
+    - 5569
+  label: 陽明雜治法第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5.d3d2
+    span:
+    - body
+    - 4251
+    - 5166
+  label: 發黃證治七條
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ef019_jc_004-d5.d3d3
+    span:
+    - body
+    - 5166
+    - 5569
+  label: 蓄血證治二條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4615
+  label: 卷五少陽篇
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6d2
+    span:
+    - body
+    - 5
+    - 196
+  label: 辨列少陽條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6d3
+    span:
+    - body
+    - 196
+    - 2885
+  label: 少陽正治法第一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d3d2
+    span:
+    - body
+    - 203
+    - 269
+  label: 少陽證一條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d3d3
+    span:
+    - body
+    - 269
+    - 2333
+  label: 小柴胡湯證九條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d3d4
+    span:
+    - body
+    - 2333
+    - 2609
+  label: 少陽汗吐下之禁二條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d3d5
+    span:
+    - body
+    - 2609
+    - 2885
+  label: 辨少陽邪氣進退之機四條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6d4
+    span:
+    - body
+    - 2885
+    - 4047
+  label: 少陽權變法第二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d4d2
+    span:
+    - body
+    - 2892
+    - 3090
+  label: 柴胡桂枝湯證一條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d4d3
+    span:
+    - body
+    - 3090
+    - 3384
+  label: 柴胡桂枝幹薑湯證一條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d4d4
+    span:
+    - body
+    - 3384
+    - 3670
+  label: 柴胡加芒硝湯證一條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d4d5
+    span:
+    - body
+    - 3670
+    - 4047
+  label: 大柴胡湯證一條
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6d5
+    span:
+    - body
+    - 4047
+    - 4615
+  label: 少陽刺法第三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef019_jc_005-d6.d5d2
+    span:
+    - body
+    - 4053
+    - 4615
+  label: 刺法四條
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1732
+  label: 卷六太陰篇
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7d2
+    span:
+    - body
+    - 5
+    - 210
+  label: 辨列太陰條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7d3
+    span:
+    - body
+    - 210
+    - 1732
+  label: 太陰諸法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7.d3d2
+    span:
+    - body
+    - 214
+    - 1273
+  label: 太陰臟病脈證治六條
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7.d3d3
+    span:
+    - body
+    - 1273
+    - 1496
+  label: 太陰經病證治二條
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7.d3d4
+    span:
+    - body
+    - 1496
+    - 1660
+  label: 太陰經臟俱病一條
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef019_jc_006-d7.d3d5
+    span:
+    - body
+    - 1660
+    - 1732
+  label: 太陰病愈期一條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 7223
+  label: 卷七少陰篇
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8d2
+    span:
+    - body
+    - 5
+    - 191
+  label: 辨列少陰條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8d3
+    span:
+    - body
+    - 191
+    - 7223
+  label: 少陰諸法
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d2
+    span:
+    - body
+    - 195
+    - 817
+  label: 少陰脈證四條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d3
+    span:
+    - body
+    - 817
+    - 2506
+  label: 少陰清法七條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d4
+    span:
+    - body
+    - 2506
+    - 2891
+  label: 少陰下法三條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d5
+    span:
+    - body
+    - 2891
+    - 5718
+  label: 少陰溫法十五條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d6
+    span:
+    - body
+    - 5718
+    - 6740
+  label: 少陰生死法十二條
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ef019_jc_007-d8.d3d7
+    span:
+    - body
+    - 6740
+    - 7223
+  label: 少陰病禁四條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 8981
+  label: 卷八厥陰篇
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9d2
+    span:
+    - body
+    - 5
+    - 231
+  label: 辨列厥陰條例大意
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9d3
+    span:
+    - body
+    - 231
+    - 8981
+  label: 厥陰諸法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d2
+    span:
+    - body
+    - 235
+    - 1011
+  label: 厥陰病脈證五條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d3
+    span:
+    - body
+    - 1011
+    - 2633
+  label: 厥陰進退之機九條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d4
+    span:
+    - body
+    - 2633
+    - 4000
+  label: 厥陰生死微甚之辨十五條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d5
+    span:
+    - body
+    - 4000
+    - 4788
+  label: 厥陰清法五條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d6
+    span:
+    - body
+    - 4788
+    - 6558
+  label: 厥陰溫法十條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d7
+    span:
+    - body
+    - 6558
+    - 6857
+  label: 厥陰病禁二條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d8
+    span:
+    - body
+    - 6857
+    - 7851
+  label: 簡誤九條
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef019_jc_008-d9.d3d9
+    span:
+    - body
+    - 7851
+    - 8981
+  label: 瘥後諸病七條
+  type: section
+  level: 3
+hash: sha256:ba596e388d3c8966d7b421909b8f4168e2bc7239e3426c2602f49793c91a3264
